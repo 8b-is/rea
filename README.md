@@ -47,6 +47,12 @@
 
 ---
 
+> **8b-is fork · vaked.dev constellation.** This is the `8b-is/rea` fork of
+> [`morluto/rea`](https://github.com/morluto/rea) — aligned and wired into the
+> vaked.dev constellation. Upstream authorship, the MIT license, and the
+> community belong to `morluto`; this fork carries the constellation's
+> cross-links and branding. *fine touch from within · 0 + 1 · vaked.dev <3*
+
 See a feature in an app that you want in your own product? Ask your agent to investigate it with REA. It can inspect the app without its source code, explain how the feature works, show the evidence, and build a version for your project.
 
 REA connects your agent to tools for inspecting native binaries, JavaScript and Electron apps, .NET assemblies, and websites. You can also use the same tools from your terminal. Analysis runs locally, and results include the evidence and limitations behind each conclusion.
